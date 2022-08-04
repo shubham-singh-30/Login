@@ -1,6 +1,4 @@
-# Website Hosted here
 
-[Venia Shop]()
 
 ## Login Deatils
 
